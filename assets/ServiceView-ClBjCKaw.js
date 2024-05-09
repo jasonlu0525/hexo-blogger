@@ -1,0 +1,1 @@
+import{_ as e,c as s,o as c,a as o}from"./index-DJWbof0C.js";const t={},a={class:"about"},n=o("h1",null,"This is an SERVICE page",-1),_=[n];function r(i,d){return c(),s("div",a,_)}const f=e(t,[["render",r]]);export{f as default};
